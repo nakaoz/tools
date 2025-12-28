@@ -30,3 +30,15 @@ DOMAIN-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,redirect.ultra.me
 DOMAIN-SUFFIX,ultramobile.com
+# =========================
+# AT&T / RedPocket GSMA
+# > 注：1.代理线路需支持UDP 2.最好为美国线路IPLC（如需走代理）
+# =========================
+# AT&T Wi-Fi Calling / IMS
+DOMAIN-SUFFIX,epdg.epc.att.net
+DOMAIN-SUFFIX,sentitlement2.mobile.att.net
+DOMAIN-SUFFIX,vvm.mobile.att.net
+
+# Optional (broad but safe-ish, only if needed)
+# DOMAIN-SUFFIX,mobile.att.net
+# DOMAIN-SUFFIX,att.net
